@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
-local WebHook = "https://discord.com/api/webhooks/1062917780015427584/Oxl5ARG8K1Oxs827OUo1Zr0gfZqfo_MM6rkBOMSAM55lg3AOPS2Vqi9Khs4mdpTJGzuP"
+local WebHook = ""
 
 QBCore.Functions.CreateUseableItem("camera", function(source, item)
     local src = source
